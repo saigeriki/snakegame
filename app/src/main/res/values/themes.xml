@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Parent Material (dark): cold start lo white flash undadu, windowBackground
+         naa game bg (#05060A) tho match avutundi. -->
+    <style name="Theme.SnakeGame" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">#05060A</item>
+        <item name="android:navigationBarColor">#05060A</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
